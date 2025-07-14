@@ -100,8 +100,8 @@ vTools:ACList/Landing list/m_Column_3:D:4:1:20:23:0:1:vTools:vTools:
 vTools:ACList/Landing list/m_Column_4:S:5:1:21:23:0:1:vTools:vTools:
 vTools:ACList/Landing list/m_Column_5:H:4:1:22:23:0:1:vTools:vTools:
 vTools:ACList/Landing list/m_Column_6:V:3:1:41:23:0:1::vTools:
-Euroscope timers plugin:x:1589
-Euroscope timers plugin:y:71
+Euroscope timers plugin:x:1583
+Euroscope timers plugin:y:48
 TopSky plugin:ACList/LOAD/m_Visible:0
 TopSky plugin:ACList/LOAD/m_X:20
 TopSky plugin:ACList/LOAD/m_Y:20
