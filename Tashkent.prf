@@ -1,4 +1,3 @@
-Settings	sector	\UTTR-Development-Build_20250713191003-241301-0019.sct
 RecentFiles	Recent1	\UTTR\ASR\ACC\Tashkent.asr
 RecentFiles	Recent2	\UTTR\ASR\GND\Tashkent_GMC.asr
 RecentFiles	Recent3	\UTTR\ASR\GND\Urgench_GMC.asr
@@ -6,7 +5,6 @@ RecentFiles	Recent4	\UTTR\ASR\GND\Nukus_GMC.asr
 RecentFiles	Recent5	\UTTR\ASR\GND\Namangan_GMC.asr
 RecentFiles	Recent6	\UTTR\ASR\GND\Fergana_GMC.asr
 RecentFiles	Recent6	\UTTR\ASR\GND\Kokand_GMC.asr
-LastSession	simNavDatapublish	0
 Settings	AselKey	5111808
 Settings	FreqKey	3604480
 Settings	airlines	\UTTR\ICAO\ICAO_Airlines.txt
@@ -15,30 +13,6 @@ Settings	aircraft	\UTTR\ICAO\ICAO_Aircraft.txt
 Settings	airways	\UTTR\NavData\airway.txt
 Settings	airportcoords	\UTTR\NavData\icao.txt
 Settings	alias	\UTTR\Alias\alias.txt
-Plugins	Plugin0	\UTTR\Plugins\TopSky\TopSky.dll
-Plugins	Plugin1	\UTTR\Plugins\Timer\ESTimers.dll
-Plugins	Plugin0Display0	Standard ES radar screen
-Plugins	Plugin1Display1	Standard ES radar screen
-Plugins	Plugin1Display0	Ground Radar display
-Sounds	Sound0	\UTTR\Sounds\handoff_request.wav
-Sounds	Sound1	\UTTR\Sounds\handoff_accept.wav
-Sounds	Sound2	\UTTR\Sounds\conflict_alert.wav
-Sounds	Sound3	\UTTR\Sounds\radio_message.wav
-Sounds	Sound4	\UTTR\Sounds\private_message.wav
-Sounds	Sound5	\UTTR\Sounds\atc_message.wav
-Sounds	Sound6	\UTTR\Sounds\broadcast_message.wav
-Sounds	Sound7	\UTTR\Sounds\landline_request.wav
-Sounds	Sound8	\UTTR\Sounds\supervisor_message.wav
-Sounds	Sound9	\UTTR\Sounds\connected.wav
-Sounds	Sound10	\UTTR\Sounds\disconnected.wav
-Sounds	Sound11	\UTTR\Sounds\ongoing_request.wav
-Sounds	Sound12	\UTTR\Sounds\ongoing_accepted.wav
-Sounds	Sound13	\UTTR\Sounds\ongoing_refused.wav
-Sounds	Sound14	\UTTR\Sounds\ongoing_manual.wav
-Sounds	Sound15	\UTTR\Sounds\new_atis.wav
-Sounds	Sound16	\UTTR\Sounds\handoff_refused.wav
-Sounds	Sound17	\UTTR\Sounds\pointout.wav
-Sounds	Sound18	\UTTR\Sounds\startup.wav
 Settings	SettingsfileSIL	\UTTR\Settings\SectorInboundList.txt
 Settings	SettingsfileSEL	\UTTR\Settings\SectorExitList.txt
 Settings	SettingsfileDEP	\UTTR\Settings\DepartureList.txt
@@ -60,6 +34,25 @@ Settings	SettingsfilePLUGINS	\UTTR\Settings\Plugins.txt
 Settings	Settingsfile	\UTTR\Settings\GeneralSettings.txt
 Settings	SettingsfileSCREEN	\UTTR\Settings\Screenlayout.txt
 Settings	SettingsfileVCCS	\UTTR\Settings\VCCS.txt
+Sounds	Sound0	\UTTR\Sounds\handoff_request.wav
+Sounds	Sound1	\UTTR\Sounds\handoff_accept.wav
+Sounds	Sound2	\UTTR\Sounds\conflict_alert.wav
+Sounds	Sound3	\UTTR\Sounds\radio_message.wav
+Sounds	Sound4	\UTTR\Sounds\private_message.wav
+Sounds	Sound5	\UTTR\Sounds\atc_message.wav
+Sounds	Sound6	\UTTR\Sounds\broadcast_message.wav
+Sounds	Sound7	\UTTR\Sounds\landline_request.wav
+Sounds	Sound8	\UTTR\Sounds\supervisor_message.wav
+Sounds	Sound9	\UTTR\Sounds\connected.wav
+Sounds	Sound10	\UTTR\Sounds\disconnected.wav
+Sounds	Sound11	\UTTR\Sounds\ongoing_request.wav
+Sounds	Sound12	\UTTR\Sounds\ongoing_accepted.wav
+Sounds	Sound13	\UTTR\Sounds\ongoing_refused.wav
+Sounds	Sound14	\UTTR\Sounds\ongoing_manual.wav
+Sounds	Sound15	\UTTR\Sounds\new_atis.wav
+Sounds	Sound16	\UTTR\Sounds\handoff_refused.wav
+Sounds	Sound17	\UTTR\Sounds\pointout.wav
+Sounds	Sound18	\UTTR\Sounds\startup.wav
 TeamSpeakVccs	Ts3DialogLeft	1549
 TeamSpeakVccs	Ts3DialogTop	52
 TeamSpeakVccs	Ts3DialogRight	2406
@@ -67,38 +60,19 @@ TeamSpeakVccs	Ts3DialogBottom	611
 TeamSpeakVccs	TsVccsMiniControlX	2036
 TeamSpeakVccs	TsVccsMiniControlY	71
 TeamSpeakVccs	Ts3NickName	Your CID
-LastSession	simdatapublish	0
-LastSession	atis_freq0	126800
-LastSession	atis_callsign0	UTTT_ATIS
-LastSession	atis_url0	https://vatis.ru/atis.php?c=P-E906F750&arrp=$atisairportA&arr=$arrrwy($atisairportA)&dep=$deprwy($atisairportA)&info=$atiscodeA
-LastSession	atis_letter0	73
-LastSession	atis_airport	UTTT
-LastSession	atis_letter	67
-LastSession	atis_freq0	127700
-Plugins	Plugin0Display1	Ground Radar display
+Plugins	Plugin0	\UTTR\Plugins\TopSky\TopSky.dll
+Plugins	Plugin1	\UTTR\Plugins\Timer\ESTimers.dll
 Plugins	Plugin2	\UTTR\Plugins\Ground-Radar-Plugin\GRplugin.dll
+Plugins	Plugin3	\UTTR\Plugins\DiscordEuroscope\DiscordEuroscope.dll
+Plugins	Plugin0Display0	Standard ES radar screen
+Plugins	Plugin0Display1	Ground Radar display
+Plugins	Plugin1Display0	Ground Radar display
+Plugins	Plugin1Display1	Standard ES radar screen
 Plugins	Plugin2Display0	Ground Radar display
 Plugins	Plugin2Display1	Standard ES radar screen
 Plugins	Plugin4Display0	Standard ES radar screen
 Plugins	Plugin4Display1	Ground Radar display
-LastSession	atis_freq4	118000
-LastSession	connecttype	2
-LastSession	facility	6
-LastSession	rating	4
-LastSession	tovatsim	1
-LastSession	range	600
-LastSession	proxyserver	localhost
-LastSession	realname	Nikita Zikeev
-LastSession	certificate	1475694
-LastSession	password	YWcMTj6!T9j3LZW
-LastSession	server	SweatBox
-Plugins	Plugin3	\UTTR\Plugins\DiscordEuroscope\DiscordEuroscope.dll
 TeamSpeakVccs	PlaybackMode	Windows Audio Session
 TeamSpeakVccs	PlaybackDevice	Наушники гарнитуры (3- JBL Quantum810 Wireless Chat)
 TeamSpeakVccs	CaptureMode	Windows Audio Session
 TeamSpeakVccs	CaptureDevice	Микрофон (3- JBL Quantum810 Wireless Chat)
-LastSession	atis_message0	TASHKENT ATIS INFORMATION I 1330Z EXPECT ILS APPROACH RUNWAY 26 RIGHT DRY FRICTION COEFFICIENT DECIMAL 7 MEASURED BY SFT DEPARTURE RUNWAY 26 RIGHT TRANSITION LEVEL 80 DEPARTURE FREQUENCY 134.600 WEATHER WIND 300 DEGREES 12 KNOTS CAVOK TEMPERATURE 30 DEW POINT 2 QNH 1009 NO SIGNIFICANT CHANGES ACKNOWLEDGE ATIS INFORMATION I
-LastSession	callsign	UTTR_CTR
-LastSession	atis2	Tashkent Control
-LastSession	atis3	Charts and sceneries on vats.im/UTTR
-LastSession	scenario	\UTTT_APP_Test.txt
