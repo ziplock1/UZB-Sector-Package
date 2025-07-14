@@ -1,8 +1,8 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:D:\old\UTTR-Development-Build_20250714082134-241301-0020.sct
-SECTORTITLE:UTTR-Development-Build_20250714082134-241301-0020.sct
+SECTORFILE:
+SECTORTITLE:
 ARTCC boundary:UTTR_1UL_CTR:
 ARTCC boundary:UTTR_2UL_CTR:
 ARTCC boundary:UTTR_3UL_CTR:
