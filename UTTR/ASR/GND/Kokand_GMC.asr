@@ -1,0 +1,24 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:D:\old\UTTR-Development-Build_20250714082134-241301-0020.sct
+SECTORTITLE:UTTR-Development-Build_20250714082134-241301-0020.sct
+Free Text:UTFK Ground Freetext\1:freetext
+Free Text:UTFK Ground Freetext\2:freetext
+Free Text:UTFK Ground Freetext\A:freetext
+Geo:UTFK Groundlayout:
+Regions:UTFK Ground Polygons:polygon
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:11.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:40.440143:70.970932:40.456396:71.009948

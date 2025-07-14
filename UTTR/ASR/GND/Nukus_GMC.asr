@@ -1,0 +1,40 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:D:\old\UTTR-Development-Build_20250509132125-241301-0004.sct
+SECTORTITLE:UTTR-Development-Build_20250509132125-241301-0004.sct
+Free Text:UTNN Ground Freetext\1:freetext
+Free Text:UTNN Ground Freetext\2:freetext
+Free Text:UTNN Ground Freetext\3:freetext
+Free Text:UTNN Ground Freetext\4:freetext
+Free Text:UTNN Ground Freetext\5:freetext
+Free Text:UTNN Ground Freetext\6:freetext
+Free Text:UTNN Ground Freetext\7:freetext
+Free Text:UTNN Ground Freetext\B:freetext
+Free Text:UTNN Ground Freetext\E:freetext
+Geo:GEO:
+Geo:UTFA Groundlayout:
+Geo:UTFF Groundlayout:
+Geo:UTFN Groundlayout:
+Geo:UTNN Groundlayout:
+Geo:UTNU Groundlayout:
+Geo:UTTT Groundlayout:
+Regions:UTNN Ground Polygons:polygon
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:42.464021:59.566827:42.513785:59.686288
+PLUGIN:Ground Radar plugin:AirportElevation:249
+PLUGIN:Ground Radar plugin:AirportRadius:1.9	
+PLUGIN:Ground Radar plugin:GroundMode:UTNN
+PLUGIN:TopSky plugin:NoDraw:1
