@@ -1,0 +1,74 @@
+RecentFiles	Recent1	\UZB\ASR\ACC\Uzbekistan.asr
+RecentFiles	Recent2	\UZB\ASR\GND\Tashkent_GMC.asr
+RecentFiles	Recent3	\UTSD\ASR\GND\Samarkand_GMC.asr
+Settings	AselKey	5111808
+Settings	FreqKey	3604480
+Settings	airlines	\UZB\ICAO\ICAO_Airlines.txt
+Settings	airports	\UZB\ICAO\ICAO_Airports.txt
+Settings	aircraft	\UZB\ICAO\ICAO_Aircraft.txt
+Settings	airways	\UZB\NavData\airway.txt
+Settings	airportcoords	\UZB\NavData\icao.txt
+Settings	alias	\UZB\Alias\alias.txt
+Settings	SettingsfileSIL	\UZB\Settings\SectorInboundList.txt
+Settings	SettingsfileSEL	\UZB\Settings\SectorExitList.txt
+Settings	SettingsfileDEP	\UZB\Settings\DepartureList.txt
+Settings	SettingsfileARR	\UZB\Settings\ArrivalList.txt
+Settings	SettingsfileFP	\UZB\Settings\FPList.txt
+Settings	SettingsfileCONFLICT	\UZB\Settings\CARDList.txt
+Settings	SettingsfilePILOTING	\UZB\Settings\PilotingList.txt
+Settings	SettingsfileORIGPLANE	\UZB\Settings\OrigPlaneList.txt
+Settings	SettingsfileSTUP	\UZB\Settings\STUPList.txt
+Settings	SettingsfileTAXIOUT	\UZB\Settings\TAXIList.txt
+Settings	SettingsfileTAKEOFF	\UZB\Settings\TakeoffList.txt
+Settings	SettingsfileADCS	\UZB\Settings\ADCList.txt
+Settings	SettingsfileTAXIIN	\UZB\Settings\TaxiInList.txt
+Settings	SettingsfileSYMBOLOGY	\UZB\Settings\Symbology.txt
+Settings	SettingsfileVOICE	\UZB\Settings\VoiceChannels.txt
+Settings	SettingsfilePROFILE	\UZB\Settings\Login.txt
+Settings	SettingsfileTAGS	\UZB\Settings\TAGs.txt
+Settings	SettingsfilePLUGINS	\UZB\Settings\Plugins.txt
+Settings	Settingsfile	\UZB\Settings\GeneralSettings.txt
+Settings	SettingsfileSCREEN	\UZB\Settings\Screenlayout.txt
+Settings	SettingsfileVCCS	\UZB\Settings\VCCS.txt
+Sounds	Sound0	\UZB\Sounds\handoff_request.wav
+Sounds	Sound1	\UZB\Sounds\handoff_accept.wav
+Sounds	Sound2	\UZB\Sounds\conflict_alert.wav
+Sounds	Sound3	\UZB\Sounds\radio_message.wav
+Sounds	Sound4	\UZB\Sounds\private_message.wav
+Sounds	Sound5	\UZB\Sounds\atc_message.wav
+Sounds	Sound6	\UZB\Sounds\broadcast_message.wav
+Sounds	Sound7	\UZB\Sounds\landline_request.wav
+Sounds	Sound8	\UZB\Sounds\supervisor_message.wav
+Sounds	Sound9	\UZB\Sounds\connected.wav
+Sounds	Sound10	\UZB\Sounds\disconnected.wav
+Sounds	Sound11	\UZB\Sounds\ongoing_request.wav
+Sounds	Sound12	\UZB\Sounds\ongoing_accepted.wav
+Sounds	Sound13	\UZB\Sounds\ongoing_refused.wav
+Sounds	Sound14	\UZB\Sounds\ongoing_manual.wav
+Sounds	Sound15	\UZB\Sounds\new_atis.wav
+Sounds	Sound16	\UZB\Sounds\handoff_refused.wav
+Sounds	Sound17	\UZB\Sounds\pointout.wav
+Sounds	Sound18	\UZB\Sounds\startup.wav
+TeamSpeakVccs	Ts3DialogLeft	1549
+TeamSpeakVccs	Ts3DialogTop	52
+TeamSpeakVccs	Ts3DialogRight	2406
+TeamSpeakVccs	Ts3DialogBottom	611
+TeamSpeakVccs	TsVccsMiniControlX	2036
+TeamSpeakVccs	TsVccsMiniControlY	71
+TeamSpeakVccs	Ts3NickName	Your CID
+Plugins	Plugin0	\UZB\Plugins\TopSky\TopSky.dll
+Plugins	Plugin1	\UZB\Plugins\Timer\ESTimers.dll
+Plugins	Plugin2	\UZB\Plugins\Ground-Radar-Plugin\GRplugin.dll
+Plugins	Plugin3	\UZB\Plugins\DiscordEuroscope\DiscordEuroscope.dll
+Plugins	Plugin0Display0	Standard ES radar screen
+Plugins	Plugin0Display1	Ground Radar display
+Plugins	Plugin1Display0	Ground Radar display
+Plugins	Plugin1Display1	Standard ES radar screen
+Plugins	Plugin2Display0	Ground Radar display
+Plugins	Plugin2Display1	Standard ES radar screen
+Plugins	Plugin4Display0	Standard ES radar screen
+Plugins	Plugin4Display1	Ground Radar display
+TeamSpeakVccs	PlaybackMode	Windows Audio Session
+TeamSpeakVccs	PlaybackDevice	Наушники гарнитуры (3- JBL Quantum810 Wireless Chat)
+TeamSpeakVccs	CaptureMode	Windows Audio Session
+TeamSpeakVccs	CaptureDevice	Микрофон (3- JBL Quantum810 Wireless Chat)
