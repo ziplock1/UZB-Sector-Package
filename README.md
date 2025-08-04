@@ -1,2 +1,2 @@
-# UTTR-Sector-Package
-Data source for UTTR Sector Package on Global Nav Generator(GNG)
+# UZB-Sector-Package
+Data source for UZB Sector Package on Global Nav Generator(GNG)
