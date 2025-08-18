@@ -1,6 +1,6 @@
 RecentFiles	Recent1	\UZB\ASR\ACC\Uzbekistan.asr
 RecentFiles	Recent2	\UZB\ASR\GND\Tashkent_GMC.asr
-RecentFiles	Recent3	\UTSD\ASR\GND\Samarkand_GMC.asr
+RecentFiles	Recent3	\UZB\ASR\GND\Samarkand_GMC.asr
 Settings	AselKey	5111808
 Settings	FreqKey	3604480
 Settings	airlines	\UZB\ICAO\ICAO_Airlines.txt
@@ -49,12 +49,12 @@ Sounds	Sound15	\UZB\Sounds\new_atis.wav
 Sounds	Sound16	\UZB\Sounds\handoff_refused.wav
 Sounds	Sound17	\UZB\Sounds\pointout.wav
 Sounds	Sound18	\UZB\Sounds\startup.wav
-TeamSpeakVccs	Ts3DialogLeft	1549
-TeamSpeakVccs	Ts3DialogTop	52
-TeamSpeakVccs	Ts3DialogRight	2406
-TeamSpeakVccs	Ts3DialogBottom	611
-TeamSpeakVccs	TsVccsMiniControlX	2036
-TeamSpeakVccs	TsVccsMiniControlY	71
+TeamSpeakVccs	Ts3DialogLeft	1552
+TeamSpeakVccs	Ts3DialogTop	46
+TeamSpeakVccs	Ts3DialogRight	2358
+TeamSpeakVccs	Ts3DialogBottom	605
+TeamSpeakVccs	TsVccsMiniControlX	1835
+TeamSpeakVccs	TsVccsMiniControlY	44
 TeamSpeakVccs	Ts3NickName	Your CID
 Plugins	Plugin0	\UZB\Plugins\TopSky\TopSky.dll
 Plugins	Plugin1	\UZB\Plugins\Timer\ESTimers.dll
@@ -68,7 +68,3 @@ Plugins	Plugin2Display0	Ground Radar display
 Plugins	Plugin2Display1	Standard ES radar screen
 Plugins	Plugin4Display0	Standard ES radar screen
 Plugins	Plugin4Display1	Ground Radar display
-TeamSpeakVccs	PlaybackMode	Windows Audio Session
-TeamSpeakVccs	PlaybackDevice	Наушники гарнитуры (3- JBL Quantum810 Wireless Chat)
-TeamSpeakVccs	CaptureMode	Windows Audio Session
-TeamSpeakVccs	CaptureDevice	Микрофон (3- JBL Quantum810 Wireless Chat)
