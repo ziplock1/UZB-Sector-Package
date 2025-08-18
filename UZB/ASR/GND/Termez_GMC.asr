@@ -1,0 +1,38 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:UTST Ground Freetext\1:freetext
+Free Text:UTST Ground Freetext\2:freetext
+Free Text:UTST Ground Freetext\3:freetext
+Free Text:UTST Ground Freetext\4:freetext
+Free Text:UTST Ground Freetext\5:freetext
+Free Text:UTST Ground Freetext\6:freetext
+Free Text:UTST Ground Freetext\A:freetext
+Free Text:UTST Ground Freetext\B:freetext
+Free Text:UTST Ground Freetext\C:freetext
+Free Text:UTST Ground Freetext\D:freetext
+Free Text:UTST Ground Freetext\E:freetext
+Free Text:UTST Ground Freetext\M:freetext
+Free Text:UTST Ground Freetext\M:freetext
+Geo:UTST Groundlayout:
+Regions:UTST Groundlayout:polygon
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:37.273718:67.279876:37.297737:67.337535
+PLUGIN:Ground Radar plugin:AirportElevation:2221
+PLUGIN:Ground Radar plugin:AirportRadius:1.9
+PLUGIN:Ground Radar plugin:GroundMode:UTST
+PLUGIN:TopSky plugin:NoDraw:1

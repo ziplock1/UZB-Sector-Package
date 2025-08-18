@@ -1,0 +1,37 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:UTSB Ground Freetext\1:freetext
+Free Text:UTSB Ground Freetext\2:freetext
+Free Text:UTSB Ground Freetext\3:freetext
+Free Text:UTSB Ground Freetext\4:freetext
+Free Text:UTSB Ground Freetext\5:freetext
+Free Text:UTSB Ground Freetext\6:freetext
+Free Text:UTSB Ground Freetext\7:freetext
+Free Text:UTSB Ground Freetext\T-1:freetext
+Free Text:UTSB Ground Freetext\T-2:freetext
+Free Text:UTSB Ground Freetext\T-3:freetext
+Free Text:UTSB Ground Freetext\T-4:freetext
+Free Text:UTSB Ground Freetext\T-5:freetext
+Geo:UTSB Groundlayout:
+Regions:UTSB Groundlayout:polygon
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:79.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:39.761014:64.448287:39.789907:64.517646
+PLUGIN:Ground Radar plugin:AirportElevation:751
+PLUGIN:Ground Radar plugin:AirportRadius:1.9
+PLUGIN:Ground Radar plugin:GroundMode:UTSB
+PLUGIN:TopSky plugin:NoDraw:1

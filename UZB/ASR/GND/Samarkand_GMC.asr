@@ -1,0 +1,58 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:UTSS Ground Freetext\1:freetext
+Free Text:UTSS Ground Freetext\10:freetext
+Free Text:UTSS Ground Freetext\10L:freetext
+Free Text:UTSS Ground Freetext\10R:freetext
+Free Text:UTSS Ground Freetext\11:freetext
+Free Text:UTSS Ground Freetext\11L:freetext
+Free Text:UTSS Ground Freetext\11R:freetext
+Free Text:UTSS Ground Freetext\12:freetext
+Free Text:UTSS Ground Freetext\13:freetext
+Free Text:UTSS Ground Freetext\14:freetext
+Free Text:UTSS Ground Freetext\15:freetext
+Free Text:UTSS Ground Freetext\16:freetext
+Free Text:UTSS Ground Freetext\17:freetext
+Free Text:UTSS Ground Freetext\18:freetext
+Free Text:UTSS Ground Freetext\19:freetext
+Free Text:UTSS Ground Freetext\2:freetext
+Free Text:UTSS Ground Freetext\20:freetext
+Free Text:UTSS Ground Freetext\21:freetext
+Free Text:UTSS Ground Freetext\22:freetext
+Free Text:UTSS Ground Freetext\23:freetext
+Free Text:UTSS Ground Freetext\24:freetext
+Free Text:UTSS Ground Freetext\3:freetext
+Free Text:UTSS Ground Freetext\4:freetext
+Free Text:UTSS Ground Freetext\5A:freetext
+Free Text:UTSS Ground Freetext\7:freetext
+Free Text:UTSS Ground Freetext\8:freetext
+Free Text:UTSS Ground Freetext\9:freetext
+Free Text:UTSS Ground Freetext\A:freetext
+Free Text:UTSS Ground Freetext\B:freetext
+Free Text:UTSS Ground Freetext\C:freetext
+Free Text:UTSS Ground Freetext\C:freetext
+Free Text:UTSS Ground Freetext\D:freetext
+Free Text:UTSS Ground Freetext\De-icing area 2:freetext
+Geo:UTSS Groundlayout:
+Regions:UTSS Groundlayout:polygon
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:39.685531:66.945904:39.714425:67.015266
+PLUGIN:Ground Radar plugin:AirportElevation:2221
+PLUGIN:Ground Radar plugin:AirportRadius:1.9
+PLUGIN:Ground Radar plugin:GroundMode:UTSS
+PLUGIN:TopSky plugin:NoDraw:1

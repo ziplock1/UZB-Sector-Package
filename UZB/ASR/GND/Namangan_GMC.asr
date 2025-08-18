@@ -1,0 +1,39 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:UTFN Ground Freetext\1:freetext
+Free Text:UTFN Ground Freetext\2:freetext
+Free Text:UTFN Ground Freetext\2A:freetext
+Free Text:UTFN Ground Freetext\3:freetext
+Free Text:UTFN Ground Freetext\4:freetext
+Free Text:UTFN Ground Freetext\5:freetext
+Free Text:UTFN Ground Freetext\6:freetext
+Free Text:UTFN Ground Freetext\7:freetext
+Free Text:UTFN Ground Freetext\A:freetext
+Free Text:UTFN Ground Freetext\B:freetext
+Free Text:UTFN Ground Freetext\C:freetext
+Free Text:UTFN Ground Freetext\D:freetext
+Free Text:UTFN Ground Freetext\E:freetext
+Free Text:UTFN Ground Freetext\M:freetext
+Geo:UTFN Groundlayout:
+Regions:UTFN Ground Polygons:polygon
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:40.972649:71.528909:40.998128:71.590072
+PLUGIN:Ground Radar plugin:AirportElevation:1705
+PLUGIN:Ground Radar plugin:AirportRadius:1.9	
+PLUGIN:Ground Radar plugin:GroundMode:UTFN
+PLUGIN:TopSky plugin:NoDraw:1

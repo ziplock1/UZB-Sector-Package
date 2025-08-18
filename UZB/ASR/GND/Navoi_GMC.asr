@@ -1,0 +1,46 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:UTSA Ground Freetext\1:freetext
+Free Text:UTSA Ground Freetext\10:freetext
+Free Text:UTSA Ground Freetext\11:freetext
+Free Text:UTSA Ground Freetext\1A:freetext
+Free Text:UTSA Ground Freetext\2:freetext
+Free Text:UTSA Ground Freetext\3:freetext
+Free Text:UTSA Ground Freetext\3A:freetext
+Free Text:UTSA Ground Freetext\4:freetext
+Free Text:UTSA Ground Freetext\5:freetext
+Free Text:UTSA Ground Freetext\6:freetext
+Free Text:UTSA Ground Freetext\7:freetext
+Free Text:UTSA Ground Freetext\8:freetext
+Free Text:UTSA Ground Freetext\9:freetext
+Free Text:UTSA Ground Freetext\A:freetext
+Free Text:UTSA Ground Freetext\B:freetext
+Free Text:UTSA Ground Freetext\C:freetext
+Free Text:UTSA Ground Freetext\D:freetext
+Free Text:UTSA Ground Freetext\E:freetext
+Free Text:UTSA Ground Freetext\F:freetext
+Free Text:UTSA Ground Freetext\MAIN:freetext
+Free Text:UTSA Ground Freetext\MAIN:freetext
+Geo:UTSA Groundlayout:
+Regions:UTSA Groundlayout:polygon
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:40.099753:65.128242:40.135869:65.214941
+PLUGIN:Ground Radar plugin:AirportElevation:1142
+PLUGIN:Ground Radar plugin:AirportRadius:1.9
+PLUGIN:Ground Radar plugin:GroundMode:UTSA
+PLUGIN:TopSky plugin:NoDraw:1

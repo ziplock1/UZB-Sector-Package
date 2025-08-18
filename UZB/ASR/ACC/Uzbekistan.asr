@@ -1,0 +1,293 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:D:\Central Asia\Uzbekistan\Uzbekistan United\UZB-Development-Package_20250818160452-241301-0019.sct
+SECTORTITLE:UZB-Development-Package_20250818160452-241301-0019.sct
+ARTCC boundary:UTTR_1UL_CTR:
+ARTCC boundary:UTTR_2UL_CTR:
+ARTCC boundary:UTTR_3UL_CTR:
+ARTCC boundary:UTTR_4_CTR:
+ARTCC high boundary:UTFN_APP:
+ARTCC high boundary:UTNN_APP:
+ARTCC high boundary:UTNU_APP:
+ARTCC high boundary:UTSB APP:
+ARTCC high boundary:UTSD_5UL_CTR:
+ARTCC high boundary:UTSD_6_CTR:
+ARTCC high boundary:UTSS APP:
+ARTCC high boundary:UTTT_APP:
+ARTCC low boundary:UTFA_TWR:
+ARTCC low boundary:UTFF_TWR:
+ARTCC low boundary:UTFK_TWR:
+ARTCC low boundary:UTFN_TWR:
+ARTCC low boundary:UTNN_TWR:
+ARTCC low boundary:UTNU_TWR:
+ARTCC low boundary:UTSA TWR:
+ARTCC low boundary:UTSA_TWR:
+ARTCC low boundary:UTSB TWR:
+ARTCC low boundary:UTSB_APP:
+ARTCC low boundary:UTSB_TWR:
+ARTCC low boundary:UTSK TWR(CTR):
+ARTCC low boundary:UTSK TWR(TMA):
+ARTCC low boundary:UTSK_TWR:
+ARTCC low boundary:UTSS TWR:
+ARTCC low boundary:UTSS_APP:
+ARTCC low boundary:UTSS_TWR:
+ARTCC low boundary:UTST TWR:
+ARTCC low boundary:UTST_TWR:
+ARTCC low boundary:UTTC_TWR:
+ARTCC low boundary:UTTT_R_APP:
+Runways:UTFA 04-22:centerline
+Runways:UTFA 04-22:extended centerline 1
+Runways:UTFA 04-22:extended centerline 1 left base
+Runways:UTFA 04-22:extended centerline 1 left ticks
+Runways:UTFA 04-22:extended centerline 1 left vectoring
+Runways:UTFA 04-22:extended centerline 1 right base
+Runways:UTFA 04-22:extended centerline 1 right ticks
+Runways:UTFA 04-22:extended centerline 1 right vectoring
+Runways:UTFA 04-22:extended centerline 2
+Runways:UTFA 04-22:extended centerline 2 left base
+Runways:UTFA 04-22:extended centerline 2 left ticks
+Runways:UTFA 04-22:extended centerline 2 left vectoring
+Runways:UTFA 04-22:extended centerline 2 right base
+Runways:UTFA 04-22:extended centerline 2 right ticks
+Runways:UTFA 04-22:extended centerline 2 right vectoring
+Runways:UTFF 18-36:centerline
+Runways:UTFF 18-36:extended centerline 1
+Runways:UTFF 18-36:extended centerline 1 left base
+Runways:UTFF 18-36:extended centerline 1 left ticks
+Runways:UTFF 18-36:extended centerline 1 left vectoring
+Runways:UTFF 18-36:extended centerline 1 right base
+Runways:UTFF 18-36:extended centerline 1 right ticks
+Runways:UTFF 18-36:extended centerline 1 right vectoring
+Runways:UTFF 18-36:extended centerline 2
+Runways:UTFF 18-36:extended centerline 2 left base
+Runways:UTFF 18-36:extended centerline 2 left ticks
+Runways:UTFF 18-36:extended centerline 2 left vectoring
+Runways:UTFF 18-36:extended centerline 2 right base
+Runways:UTFF 18-36:extended centerline 2 right ticks
+Runways:UTFF 18-36:extended centerline 2 right vectoring
+Runways:UTFK 06-24:centerline
+Runways:UTFK 06-24:extended centerline 1
+Runways:UTFK 06-24:extended centerline 1 left base
+Runways:UTFK 06-24:extended centerline 1 left ticks
+Runways:UTFK 06-24:extended centerline 1 left vectoring
+Runways:UTFK 06-24:extended centerline 1 right base
+Runways:UTFK 06-24:extended centerline 1 right ticks
+Runways:UTFK 06-24:extended centerline 1 right vectoring
+Runways:UTFK 06-24:extended centerline 2
+Runways:UTFK 06-24:extended centerline 2 left base
+Runways:UTFK 06-24:extended centerline 2 left ticks
+Runways:UTFK 06-24:extended centerline 2 left vectoring
+Runways:UTFK 06-24:extended centerline 2 right base
+Runways:UTFK 06-24:extended centerline 2 right ticks
+Runways:UTFK 06-24:extended centerline 2 right vectoring
+Runways:UTFN 10-28:centerline
+Runways:UTFN 10-28:extended centerline 1
+Runways:UTFN 10-28:extended centerline 1 left base
+Runways:UTFN 10-28:extended centerline 1 left ticks
+Runways:UTFN 10-28:extended centerline 1 left vectoring
+Runways:UTFN 10-28:extended centerline 1 right base
+Runways:UTFN 10-28:extended centerline 1 right ticks
+Runways:UTFN 10-28:extended centerline 1 right vectoring
+Runways:UTFN 10-28:extended centerline 2
+Runways:UTFN 10-28:extended centerline 2 left base
+Runways:UTFN 10-28:extended centerline 2 left ticks
+Runways:UTFN 10-28:extended centerline 2 left vectoring
+Runways:UTFN 10-28:extended centerline 2 right base
+Runways:UTFN 10-28:extended centerline 2 right ticks
+Runways:UTFN 10-28:extended centerline 2 right vectoring
+Runways:UTNN 07-25:centerline
+Runways:UTNN 07-25:extended centerline 1
+Runways:UTNN 07-25:extended centerline 1 left base
+Runways:UTNN 07-25:extended centerline 1 left ticks
+Runways:UTNN 07-25:extended centerline 1 left vectoring
+Runways:UTNN 07-25:extended centerline 1 right base
+Runways:UTNN 07-25:extended centerline 1 right ticks
+Runways:UTNN 07-25:extended centerline 1 right vectoring
+Runways:UTNN 07-25:extended centerline 2
+Runways:UTNN 07-25:extended centerline 2 left base
+Runways:UTNN 07-25:extended centerline 2 left ticks
+Runways:UTNN 07-25:extended centerline 2 left vectoring
+Runways:UTNN 07-25:extended centerline 2 right base
+Runways:UTNN 07-25:extended centerline 2 right ticks
+Runways:UTNN 07-25:extended centerline 2 right vectoring
+Runways:UTNN 15-33:centerline
+Runways:UTNN 15-33:extended centerline 1
+Runways:UTNN 15-33:extended centerline 1 left base
+Runways:UTNN 15-33:extended centerline 1 left ticks
+Runways:UTNN 15-33:extended centerline 1 left vectoring
+Runways:UTNN 15-33:extended centerline 1 right base
+Runways:UTNN 15-33:extended centerline 1 right ticks
+Runways:UTNN 15-33:extended centerline 1 right vectoring
+Runways:UTNN 15-33:extended centerline 2
+Runways:UTNN 15-33:extended centerline 2 left base
+Runways:UTNN 15-33:extended centerline 2 left ticks
+Runways:UTNN 15-33:extended centerline 2 left vectoring
+Runways:UTNN 15-33:extended centerline 2 right base
+Runways:UTNN 15-33:extended centerline 2 right ticks
+Runways:UTNN 15-33:extended centerline 2 right vectoring
+Runways:UTNU 13-31:centerline
+Runways:UTNU 13-31:extended centerline 1
+Runways:UTNU 13-31:extended centerline 1 left base
+Runways:UTNU 13-31:extended centerline 1 left ticks
+Runways:UTNU 13-31:extended centerline 1 left vectoring
+Runways:UTNU 13-31:extended centerline 1 right base
+Runways:UTNU 13-31:extended centerline 1 right ticks
+Runways:UTNU 13-31:extended centerline 1 right vectoring
+Runways:UTNU 13-31:extended centerline 2
+Runways:UTNU 13-31:extended centerline 2 left base
+Runways:UTNU 13-31:extended centerline 2 left ticks
+Runways:UTNU 13-31:extended centerline 2 left vectoring
+Runways:UTNU 13-31:extended centerline 2 right base
+Runways:UTNU 13-31:extended centerline 2 right ticks
+Runways:UTNU 13-31:extended centerline 2 right vectoring
+Runways:UTSA 07-25:centerline
+Runways:UTSA 07-25:extended centerline 1
+Runways:UTSA 07-25:extended centerline 1 left base
+Runways:UTSA 07-25:extended centerline 1 left ticks
+Runways:UTSA 07-25:extended centerline 1 left vectoring
+Runways:UTSA 07-25:extended centerline 1 right base
+Runways:UTSA 07-25:extended centerline 1 right ticks
+Runways:UTSA 07-25:extended centerline 1 right vectoring
+Runways:UTSA 07-25:extended centerline 2
+Runways:UTSA 07-25:extended centerline 2 left base
+Runways:UTSA 07-25:extended centerline 2 left ticks
+Runways:UTSA 07-25:extended centerline 2 left vectoring
+Runways:UTSA 07-25:extended centerline 2 right base
+Runways:UTSA 07-25:extended centerline 2 right ticks
+Runways:UTSA 07-25:extended centerline 2 right vectoring
+Runways:UTSB 01-19:centerline
+Runways:UTSB 01-19:extended centerline 1
+Runways:UTSB 01-19:extended centerline 1 left base
+Runways:UTSB 01-19:extended centerline 1 left ticks
+Runways:UTSB 01-19:extended centerline 1 left vectoring
+Runways:UTSB 01-19:extended centerline 1 right base
+Runways:UTSB 01-19:extended centerline 1 right ticks
+Runways:UTSB 01-19:extended centerline 1 right vectoring
+Runways:UTSB 01-19:extended centerline 2
+Runways:UTSB 01-19:extended centerline 2 left base
+Runways:UTSB 01-19:extended centerline 2 left ticks
+Runways:UTSB 01-19:extended centerline 2 left vectoring
+Runways:UTSB 01-19:extended centerline 2 right base
+Runways:UTSB 01-19:extended centerline 2 right ticks
+Runways:UTSB 01-19:extended centerline 2 right vectoring
+Runways:UTSK 16-34:centerline
+Runways:UTSK 16-34:extended centerline 1
+Runways:UTSK 16-34:extended centerline 1 left base
+Runways:UTSK 16-34:extended centerline 1 left ticks
+Runways:UTSK 16-34:extended centerline 1 left vectoring
+Runways:UTSK 16-34:extended centerline 1 right base
+Runways:UTSK 16-34:extended centerline 1 right ticks
+Runways:UTSK 16-34:extended centerline 1 right vectoring
+Runways:UTSK 16-34:extended centerline 2
+Runways:UTSK 16-34:extended centerline 2 left base
+Runways:UTSK 16-34:extended centerline 2 left ticks
+Runways:UTSK 16-34:extended centerline 2 left vectoring
+Runways:UTSK 16-34:extended centerline 2 right base
+Runways:UTSK 16-34:extended centerline 2 right ticks
+Runways:UTSK 16-34:extended centerline 2 right vectoring
+Runways:UTSS 09-27:centerline
+Runways:UTSS 09-27:extended centerline 1
+Runways:UTSS 09-27:extended centerline 1 left base
+Runways:UTSS 09-27:extended centerline 1 left ticks
+Runways:UTSS 09-27:extended centerline 1 left vectoring
+Runways:UTSS 09-27:extended centerline 1 right base
+Runways:UTSS 09-27:extended centerline 1 right ticks
+Runways:UTSS 09-27:extended centerline 1 right vectoring
+Runways:UTSS 09-27:extended centerline 2
+Runways:UTSS 09-27:extended centerline 2 left base
+Runways:UTSS 09-27:extended centerline 2 left ticks
+Runways:UTSS 09-27:extended centerline 2 left vectoring
+Runways:UTSS 09-27:extended centerline 2 right base
+Runways:UTSS 09-27:extended centerline 2 right ticks
+Runways:UTSS 09-27:extended centerline 2 right vectoring
+Runways:UTST 07-25:centerline
+Runways:UTST 07-25:extended centerline 1
+Runways:UTST 07-25:extended centerline 1 left base
+Runways:UTST 07-25:extended centerline 1 left ticks
+Runways:UTST 07-25:extended centerline 1 left vectoring
+Runways:UTST 07-25:extended centerline 1 right base
+Runways:UTST 07-25:extended centerline 1 right ticks
+Runways:UTST 07-25:extended centerline 1 right vectoring
+Runways:UTST 07-25:extended centerline 2
+Runways:UTST 07-25:extended centerline 2 left base
+Runways:UTST 07-25:extended centerline 2 left ticks
+Runways:UTST 07-25:extended centerline 2 left vectoring
+Runways:UTST 07-25:extended centerline 2 right base
+Runways:UTST 07-25:extended centerline 2 right ticks
+Runways:UTST 07-25:extended centerline 2 right vectoring
+Runways:UTTC 08-26:centerline
+Runways:UTTC 08-26:extended centerline 1
+Runways:UTTC 08-26:extended centerline 1 left base
+Runways:UTTC 08-26:extended centerline 1 left ticks
+Runways:UTTC 08-26:extended centerline 1 left vectoring
+Runways:UTTC 08-26:extended centerline 1 right base
+Runways:UTTC 08-26:extended centerline 1 right ticks
+Runways:UTTC 08-26:extended centerline 1 right vectoring
+Runways:UTTC 08-26:extended centerline 2
+Runways:UTTC 08-26:extended centerline 2 left base
+Runways:UTTC 08-26:extended centerline 2 left ticks
+Runways:UTTC 08-26:extended centerline 2 left vectoring
+Runways:UTTC 08-26:extended centerline 2 right base
+Runways:UTTC 08-26:extended centerline 2 right ticks
+Runways:UTTC 08-26:extended centerline 2 right vectoring
+Runways:UTTP 08-26:centerline
+Runways:UTTP 08-26:extended centerline 1
+Runways:UTTP 08-26:extended centerline 1 left base
+Runways:UTTP 08-26:extended centerline 1 left ticks
+Runways:UTTP 08-26:extended centerline 1 left vectoring
+Runways:UTTP 08-26:extended centerline 1 right base
+Runways:UTTP 08-26:extended centerline 1 right ticks
+Runways:UTTP 08-26:extended centerline 1 right vectoring
+Runways:UTTP 08-26:extended centerline 2
+Runways:UTTP 08-26:extended centerline 2 left base
+Runways:UTTP 08-26:extended centerline 2 left ticks
+Runways:UTTP 08-26:extended centerline 2 left vectoring
+Runways:UTTP 08-26:extended centerline 2 right base
+Runways:UTTP 08-26:extended centerline 2 right ticks
+Runways:UTTP 08-26:extended centerline 2 right vectoring
+Runways:UTTT 08L-26R:centerline
+Runways:UTTT 08L-26R:extended centerline 1
+Runways:UTTT 08L-26R:extended centerline 1 left base
+Runways:UTTT 08L-26R:extended centerline 1 left ticks
+Runways:UTTT 08L-26R:extended centerline 1 left vectoring
+Runways:UTTT 08L-26R:extended centerline 1 right base
+Runways:UTTT 08L-26R:extended centerline 1 right ticks
+Runways:UTTT 08L-26R:extended centerline 1 right vectoring
+Runways:UTTT 08L-26R:extended centerline 2
+Runways:UTTT 08L-26R:extended centerline 2 left base
+Runways:UTTT 08L-26R:extended centerline 2 left ticks
+Runways:UTTT 08L-26R:extended centerline 2 left vectoring
+Runways:UTTT 08L-26R:extended centerline 2 right base
+Runways:UTTT 08L-26R:extended centerline 2 right ticks
+Runways:UTTT 08L-26R:extended centerline 2 right vectoring
+Runways:UTTT 08R-26L:centerline
+Runways:UTTT 08R-26L:extended centerline 1
+Runways:UTTT 08R-26L:extended centerline 1 left base
+Runways:UTTT 08R-26L:extended centerline 1 left ticks
+Runways:UTTT 08R-26L:extended centerline 1 left vectoring
+Runways:UTTT 08R-26L:extended centerline 1 right base
+Runways:UTTT 08R-26L:extended centerline 1 right ticks
+Runways:UTTT 08R-26L:extended centerline 1 right vectoring
+Runways:UTTT 08R-26L:extended centerline 2
+Runways:UTTT 08R-26L:extended centerline 2 left base
+Runways:UTTT 08R-26L:extended centerline 2 left ticks
+Runways:UTTT 08R-26L:extended centerline 2 left vectoring
+Runways:UTTT 08R-26L:extended centerline 2 right base
+Runways:UTTT 08R-26L:extended centerline 2 right ticks
+Runways:UTTT 08R-26L:extended centerline 2 right vectoring
+Stars:HOLDING UTFN NMA R 104.0 6000:
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:-2
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Indra_Uzbekistan
+WINDOWAREA:36.445273:52.975376:46.445274:76.981004
