@@ -3,7 +3,6 @@ System_GUI_Scale_GlobalMenu=1.1
 System_GUI_Scale_Menus=1
 
 //Fonts
-Areas_Label_Font=EuroScope
 FlightLeg_Font=EuroScope
 Maps_Font=EuroScope
 System_GUI_Font_1=EuroScope
@@ -16,13 +15,13 @@ Vector_QDM_Font=EuroScope
 
 Setup_COOPANS=1
 
-Airspace_P_Flag=UTTR,UTSD
+Airspace_P_Flag=UZTR,UZSD
 Airspace_ASSR_Type=2
 Airspace_ModeS_Code_VFR=0
 Airspace_ModeS_Code=1000
 Airspace_No_DUPE_Codes=7000
-Airspace_SIGMET_Areas=UTTR,UTSD
-Airspace_NOTAM_Add=UTTR,UTSD
+Airspace_SIGMET_Areas=UZTR,UZSD
+Airspace_NOTAM_Add=UZTR,UZSD
 
 AIW=1
 AIW_Type=1
@@ -115,7 +114,7 @@ Color_Warning_FL=245,85,25
 Color_WM_Active_Fg=255,254,254
 Color_WM_Bg=160,160,160
 Color_WM_Border=88,95,99
-Color_WM_Fg=30,30,30
+Color_WM_Fg=0,0,0
 Color_WM_Frame=88,95,99
 
 CPDLC_Default=0
@@ -180,7 +179,7 @@ SAP_Buffer_Vert_L_VFR=0
 
 Shortcut_RadarMenu_Combo=0x00
 Shortcut_Map_Xfr_Key=1,0x47 ; G
-Shortcut_Map_Target=1,Enroute\Border_Fixes_Names
+Shortcut_Map_Target=1,EnroUZe\Border_Fixes_Names
 
 STCA=1
 STCA_AlertSound=1
@@ -230,37 +229,37 @@ WXR_ImageSize=512
 RDF_Accuracy=5
 Window_CARD=3,0,340
 
-[UTTR_CTR]
-Setup_LoadView=UTTR_CTR
-Setup_ScreenLat=UTTR
+[UZTR_CTR]
+Setup_LoadView=UZTR_CTR
+Setup_ScreenLat=UZTR
 CPDLC_Default=0
 
-[UTTT_APP]
-Setup_LoadView=UTTT_APP
-Setup_ScreenLat=UTTT
+[UZTT_APP]
+Setup_LoadView=UZTT_APP
+Setup_ScreenLat=UZTT
 CPDLC_Default=0
 
-[UTTT_R_APP]
-Setup_LoadView=UTTT_R_APP
-Setup_ScreenLat=UTTT
+[UZTT_R_APP]
+Setup_LoadView=UZTT_R_APP
+Setup_ScreenLat=UZTT
 CPDLC_Default=0
 
-[UTTT_TWR]
-Setup_LoadView=UTTT_TWR
-Setup_ScreenLat=UTTT
+[UZTT_TWR]
+Setup_LoadView=UZTT_TWR
+Setup_ScreenLat=UZTT
 CPDLC_Default=0
 
-[UTSD_CTR]
-Setup_LoadView=UTSD_CTR
-Setup_ScreenLat=UTSD
+[UZSD_CTR]
+Setup_LoadView=UZSD_CTR
+Setup_ScreenLat=UZSD
 CPDLC_Default=0
 
-[UTSS_APP]
-Setup_LoadView=UTSS_APP
-Setup_ScreenLat=UTSS
+[UZSS_APP]
+Setup_LoadView=UZSS_APP
+Setup_ScreenLat=UZSS
 CPDLC_Default=0
 
-[UTSB_APP]
-Setup_LoadView=UTSB_APP
-Setup_ScreenLat=UTSB
+[UZSB_APP]
+Setup_LoadView=UZSB_APP
+Setup_ScreenLat=UZSB
 CPDLC_Default=0
