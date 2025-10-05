@@ -1,5 +1,5 @@
-DisplayTypeName:Standard ES radar screen
-DisplayTypeNeedRadarContent:1
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
 SECTORFILE:
 SECTORTITLE:
@@ -22,3 +22,7 @@ DISABLEZOOMING:0
 DisplayRotation:11.00000
 TAGFAMILY:Matias (built in)
 WINDOWAREA:40.440143:70.970932:40.456396:71.009948
+PLUGIN:Ground Radar plugin:AirportElevation:1647
+PLUGIN:Ground Radar plugin:AirportRadius:1.9
+PLUGIN:Ground Radar plugin:GroundMode:UZFK
+PLUGIN:TopSky plugin:NoDraw:1
