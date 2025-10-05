@@ -104,7 +104,7 @@ Label=APP:OTH:3:AFL,0,0:GS,0,2
 
 Maps_Font=Lucida Sans Unicode
 
-[UTTT]
+[UZTT]
 Airport_Elevation=1417
 Airport_Radius=5.0
 Airport_TransAlt=6000
@@ -117,9 +117,9 @@ Airport_Runway_Area=08R:N041.15.31.724:E069.18.15.343:N041.15.13.384:E069.15.28.
 Airport_Dep_Transfer_Height=1700
 Airport_Dep_Transfer_Dist=3.0
 
-AppPath=UTTT:08L:N041.15.22.129:E069.15.36.421:081.67:R:1369:3.0
-AppPath=UTTT:08R:N041.15.15.400:E069.15.37.760:081.66:R:1369:3.0
-AppPath=UTTT:26R:N041.15.38.469:E069.18.05.090:261.70:L:1414:3.02
+AppPath=UZTT:08L:N041.15.22.129:E069.15.36.421:081.67:R:1369:3.0
+AppPath=UZTT:08R:N041.15.15.400:E069.15.37.760:081.66:R:1369:3.0
+AppPath=UZTT:26R:N041.15.38.469:E069.18.05.090:261.70:L:1414:3.02
 
 GroundLabel_Filter_OnFreq=1
 
@@ -128,7 +128,7 @@ List_Stand_Items=13
 Window_APP=1,1,800,1136,1000,220
 Window_APP_Rotation=1,8.5
 
-[UTFN]
+[UZFN]
 Airport_Elevation=1705
 Airport_Radius=5.0
 Airport_TransAlt=6000
@@ -138,13 +138,13 @@ Airport_Runway_Area=10:N040.58.47.403:E071.34.33.047:N040.58.47.817:E071.34.30.5
 Airport_Dep_Transfer_Height=1700
 Airport_Dep_Transfer_Dist=3.0
 
-AppPath=UTFN:28:N040.58.48.651:E071.34.31.018:288.57:L:1534:3.0
+AppPath=UZFN:28:N040.58.48.651:E071.34.31.018:288.57:L:1534:3.0
 
 GroundLabel_Filter_OnFreq=1
 
 List_Stand_Items=13
 
-[UTFF]
+[UZFF]
 Airport_Elevation=2052
 Airport_Radius=5.0
 Airport_TransAlt=6000
@@ -154,13 +154,13 @@ Airport_Runway_Area=18:N040.20.42.032:E071.44.36.105:N040.22.18.207:E071.44.43.2
 Airport_Dep_Transfer_Height=1700
 Airport_Dep_Transfer_Dist=3.0
 
-AppPath=UTFF:18:N040.22.16.478:E071.44.44.239:183.25:R:1924:3.0
+AppPath=UZFF:18:N040.22.16.478:E071.44.44.239:183.25:R:1924:3.0
 
 GroundLabel_Filter_OnFreq=1
 
 List_Stand_Items=13
 
-[UTNN]
+[UZNN]
 Airport_Elevation=249
 Airport_Radius=5.0
 Airport_TransAlt=6000
@@ -170,13 +170,13 @@ Airport_Runway_Area=15:N042.28.37.745:E059.37.51.382:N042.30.05.735:E059.36.54.7
 Airport_Dep_Transfer_Height=1700
 Airport_Dep_Transfer_Dist=3.0
 
-AppPath=UTNN:33:N042.28.37.178:E059.37.50.160:334.55:L:245:3.0
+AppPath=UZNN:33:N042.28.37.178:E059.37.50.160:334.55:L:245:3.0
 
 GroundLabel_Filter_OnFreq=1
 
 List_Stand_Items=13
 
-[UTNU]
+[UZNU]
 Airport_Elevation=322
 Airport_Radius=5.0
 Airport_TransAlt=2300
@@ -186,9 +186,9 @@ Airport_Runway_Area=13:N041.34.22.413:E060.39.14.826:N041.34.21.220:E060.39.14.7
 Airport_Dep_Transfer_Height=1700
 Airport_Dep_Transfer_Dist=3.0
 
-AppPath=UTNU:31:N041.34.20.420:E060.39.18.871:319.54:L:319:3.0
+AppPath=UZNU:31:N041.34.20.420:E060.39.18.871:319.54:L:319:3.0
 
-[UTSA]
+[UZSA]
 Airport_Elevation=1142
 Airport_Radius=1.5
 Airport_TransAlt=6000
@@ -196,14 +196,14 @@ Airport_Runway_Thr=07:N040.06.48.329:E065.08.53.991
 Airport_Runway_Thr=25:N040.07.16.539:E065.11.38.889
 Airport_Dep_Transfer_Dist=3.0
 
-AppPath=UTSA:07:N040.06.48.329:E065.08.53.991:077.42:R:130:3.0
-AppPath=UTSA:25:N040.07.16.539:E065.11.38.889:257.45:L:135:3.0
+AppPath=UZSA:07:N040.06.48.329:E065.08.53.991:077.42:R:130:3.0
+AppPath=UZSA:25:N040.07.16.539:E065.11.38.889:257.45:L:135:3.0
 
 GroundLabel_Filter_OnFreq=1
 
 List_Stand_Items=13
 
-[UTSB]
+[UZSB]
 Airport_Elevation=751
 Airport_Radius=1.5
 Airport_TransAlt=6000
@@ -211,13 +211,13 @@ Airport_Runway_Thr=01:N039.45.43.120:E064.28.45.040
 Airport_Runway_Thr=19:N039.47.18.898:E064.29.07.328
 Airport_Dep_Transfer_Dist=3.0
 
-AppPath=UTSB:01:N039.45.43.120:E064.28.45.040:010.18:R:738:3.0
+AppPath=UZSB:01:N039.45.43.120:E064.28.45.040:010.18:R:738:3.0
 
 GroundLabel_Filter_OnFreq=1
 
 List_Stand_Items=13
 
-[UTSK]
+[UZSK]
 Airport_Elevation=1232
 Airport_Radius=1.5
 Airport_TransAlt=6000
@@ -225,13 +225,13 @@ Airport_Runway_Thr=16:N038.48.52.340:E065.46.07.161
 Airport_Runway_Thr=34:N038.47.28.201:E065.46.38.161
 Airport_Dep_Transfer_Dist=3.0
 
-AppPath=UTSK:16:N038.48.52.340:E065.46.07.161:163.92:R:1229:3.0
+AppPath=UZSK:16:N038.48.52.340:E065.46.07.161:163.92:R:1229:3.0
 
 GroundLabel_Filter_OnFreq=1
 
 List_Stand_Items=13
 
-[UTST]
+[UZST]
 Airport_Elevation=1028
 Airport_Radius=1.5
 Airport_TransAlt=6000
@@ -239,13 +239,13 @@ Airport_Runway_Thr=07:N037.17.01.669:E067.17.30.501
 Airport_Runway_Thr=25:N037.17.28.230:E067.19.27.638
 Airport_Dep_Transfer_Dist=3.0
 
-AppPath=UTST:25:N037.17.28.230:E067.19.27.638:254.17:L:1028:3.0
+AppPath=UZST:25:N037.17.28.230:E067.19.27.638:254.17:L:1028:3.0
 
 GroundLabel_Filter_OnFreq=1
 
 List_Stand_Items=13
 
-[UTSS]
+[UZSS]
 Airport_Elevation=2223
 Airport_Radius=2.0
 Airport_TransAlt=6000
@@ -253,8 +253,8 @@ Airport_Runway_Thr=09:N039.42.10.951:E066.57.51.951
 Airport_Runway_Thr=27:N039.42.01.328:E066.59.56.619
 Airport_Dep_Transfer_Dist=3.0
 
-AppPath=UTSS:09:N039.42.10.951:E066.57.51.951:095.69:R:2176:3.0
-AppPath=UTSS:27:N039.42.01.328:E066.59.56.619:275.72:L:2221:3.0
+AppPath=UZSS:09:N039.42.10.951:E066.57.51.951:095.69:R:2176:3.0
+AppPath=UZSS:27:N039.42.01.328:E066.59.56.619:275.72:L:2221:3.0
 
 GroundLabel_Filter_OnFreq=1
 
