@@ -9,27 +9,27 @@ Settings	aircraft	\UZB\ICAO\ICAO_Aircraft.txt
 Settings	airways	\UZB\NavData\airway.txt
 Settings	airportcoords	\UZB\NavData\icao.txt
 Settings	alias	\UZB\Alias\alias.txt
-Settings	SettingsfileSIL	\UZB\Settings\SectorInboundList.txt
-Settings	SettingsfileSEL	\UZB\Settings\SectorExitList.txt
-Settings	SettingsfileDEP	\UZB\Settings\DepartureList.txt
-Settings	SettingsfileARR	\UZB\Settings\ArrivalList.txt
-Settings	SettingsfileFP	\UZB\Settings\FPList.txt
-Settings	SettingsfileCONFLICT	\UZB\Settings\CARDList.txt
-Settings	SettingsfilePILOTING	\UZB\Settings\PilotingList.txt
-Settings	SettingsfileORIGPLANE	\UZB\Settings\OrigPlaneList.txt
-Settings	SettingsfileSTUP	\UZB\Settings\STUPList.txt
-Settings	SettingsfileTAXIOUT	\UZB\Settings\TAXIList.txt
-Settings	SettingsfileTAKEOFF	\UZB\Settings\TakeoffList.txt
-Settings	SettingsfileADCS	\UZB\Settings\ADCList.txt
-Settings	SettingsfileTAXIIN	\UZB\Settings\TaxiInList.txt
-Settings	SettingsfileSYMBOLOGY	\UZB\Settings\Symbology.txt
+Settings	SettingsfileSIL	\UZB\Settings\UZB_Lists.txt
+Settings	SettingsfileSEL	\UZB\Settings\UZB_Lists.txt
+Settings	SettingsfileDEP	\UZB\Settings\UZB_Lists.txt
+Settings	SettingsfileARR	\UZB\Settings\UZB_Lists.txt
+Settings	SettingsfileFP	\UZB\Settings\UZB_Lists.txt
+Settings	SettingsfileCONFLICT	\UZB\Settings\UZB_Lists.txt
+Settings	SettingsfilePILOTING	\UZB\Settings\UZB_Lists.txt
+Settings	SettingsfileORIGPLANE	\UZB\Settings\UZB_Lists.txt
+Settings	SettingsfileSTUP	\UZB\Settings\UZB_Lists.txt
+Settings	SettingsfileTAXIOUT	\UZB\Settings\UZB_Lists.txt
+Settings	SettingsfileTAKEOFF	\UZB\Settings\UZB_Lists.txt
+Settings	SettingsfileADCS	\UZB\Settings\UZB_Lists.txt
+Settings	SettingsfileTAXIIN	\UZB\Settings\UZB_Lists.txt
+Settings	SettingsfileSYMBOLOGY	\UZB\Settings\UZB_Settings.txt
 Settings	SettingsfileVOICE	\UZB\Settings\VoiceChannels.txt
-Settings	SettingsfilePROFILE	\UZB\Settings\Login.txt
-Settings	SettingsfileTAGS	\UZB\Settings\TAGs.txt
-Settings	SettingsfilePLUGINS	\UZB\Settings\Plugins.txt
-Settings	Settingsfile	\UZB\Settings\GeneralSettings.txt
-Settings	SettingsfileSCREEN	\UZB\Settings\Screenlayout.txt
-Settings	SettingsfileVCCS	\UZB\Settings\VCCS.txt
+Settings	SettingsfilePROFILE	\UZB\Settings\UZB_LoginProfiles.txt
+Settings	SettingsfileTAGS	\UZB\Settings\UZB_TAGs.txt
+Settings	SettingsfilePLUGINS	\UZB\Settings\UZB_Plugins.txt
+Settings	Settingsfile	\UZB\Settings\UZB_Settings.txt
+Settings	SettingsfileSCREEN	\UZB\Settings\UZB_Settings.txt
+Settings	SettingsfileVCCS	\UZB\Settings\UZB_VCCS.txt
 Sounds	Sound0	\UZB\Sounds\handoff_request.wav
 Sounds	Sound1	\UZB\Sounds\handoff_accept.wav
 Sounds	Sound2	\UZB\Sounds\conflict_alert.wav
@@ -68,3 +68,4 @@ Plugins	Plugin2Display0	Ground Radar display
 Plugins	Plugin2Display1	Standard ES radar screen
 Plugins	Plugin4Display0	Standard ES radar screen
 Plugins	Plugin4Display1	Ground Radar display
+
