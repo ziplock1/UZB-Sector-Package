@@ -3,25 +3,25 @@ DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
 SECTORFILE:
 SECTORTITLE:
-Free Text:UTFF Ground Freetext\1:freetext
-Free Text:UTFF Ground Freetext\10:freetext
-Free Text:UTFF Ground Freetext\2:freetext
-Free Text:UTFF Ground Freetext\3:freetext
-Free Text:UTFF Ground Freetext\4:freetext
-Free Text:UTFF Ground Freetext\5:freetext
-Free Text:UTFF Ground Freetext\6:freetext
-Free Text:UTFF Ground Freetext\7:freetext
-Free Text:UTFF Ground Freetext\8:freetext
-Free Text:UTFF Ground Freetext\9:freetext
-Free Text:UTFF Ground Freetext\A:freetext
-Free Text:UTFF Ground Freetext\B:freetext
-Free Text:UTFF Ground Freetext\C:freetext
-Free Text:UTFF Ground Freetext\D:freetext
-Free Text:UTFF Ground Freetext\E:freetext
-Free Text:UTFF Ground Freetext\F:freetext
-Free Text:UTFF Ground Freetext\G:freetext
-Geo:UTFF Groundlayout:
-Regions:UTFF Ground Polygons:polygon
+Free Text:UZFF Ground Freetext\1:freetext
+Free Text:UZFF Ground Freetext\10:freetext
+Free Text:UZFF Ground Freetext\2:freetext
+Free Text:UZFF Ground Freetext\3:freetext
+Free Text:UZFF Ground Freetext\4:freetext
+Free Text:UZFF Ground Freetext\5:freetext
+Free Text:UZFF Ground Freetext\6:freetext
+Free Text:UZFF Ground Freetext\7:freetext
+Free Text:UZFF Ground Freetext\8:freetext
+Free Text:UZFF Ground Freetext\9:freetext
+Free Text:UZFF Ground Freetext\A:freetext
+Free Text:UZFF Ground Freetext\B:freetext
+Free Text:UZFF Ground Freetext\C:freetext
+Free Text:UZFF Ground Freetext\D:freetext
+Free Text:UZFF Ground Freetext\E:freetext
+Free Text:UZFF Ground Freetext\F:freetext
+Free Text:UZFF Ground Freetext\G:freetext
+Geo:UZFF Groundlayout:
+Regions:UZFF Ground Polygons:polygon
 SHOWC:1
 SHOWSB:0
 BELOW:0

@@ -3,29 +3,29 @@ DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
 SECTORFILE:
 SECTORTITLE:
-Free Text:UTSA Ground Freetext\1:freetext
-Free Text:UTSA Ground Freetext\10:freetext
-Free Text:UTSA Ground Freetext\11:freetext
-Free Text:UTSA Ground Freetext\1A:freetext
-Free Text:UTSA Ground Freetext\2:freetext
-Free Text:UTSA Ground Freetext\3:freetext
-Free Text:UTSA Ground Freetext\3A:freetext
-Free Text:UTSA Ground Freetext\4:freetext
-Free Text:UTSA Ground Freetext\5:freetext
-Free Text:UTSA Ground Freetext\6:freetext
-Free Text:UTSA Ground Freetext\7:freetext
-Free Text:UTSA Ground Freetext\8:freetext
-Free Text:UTSA Ground Freetext\9:freetext
-Free Text:UTSA Ground Freetext\A:freetext
-Free Text:UTSA Ground Freetext\B:freetext
-Free Text:UTSA Ground Freetext\C:freetext
-Free Text:UTSA Ground Freetext\D:freetext
-Free Text:UTSA Ground Freetext\E:freetext
-Free Text:UTSA Ground Freetext\F:freetext
-Free Text:UTSA Ground Freetext\MAIN:freetext
-Free Text:UTSA Ground Freetext\MAIN:freetext
-Geo:UTSA Groundlayout:
-Regions:UTSA Groundlayout:polygon
+Free Text:UZSA Ground Freetext\1:freetext
+Free Text:UZSA Ground Freetext\10:freetext
+Free Text:UZSA Ground Freetext\11:freetext
+Free Text:UZSA Ground Freetext\1A:freetext
+Free Text:UZSA Ground Freetext\2:freetext
+Free Text:UZSA Ground Freetext\3:freetext
+Free Text:UZSA Ground Freetext\3A:freetext
+Free Text:UZSA Ground Freetext\4:freetext
+Free Text:UZSA Ground Freetext\5:freetext
+Free Text:UZSA Ground Freetext\6:freetext
+Free Text:UZSA Ground Freetext\7:freetext
+Free Text:UZSA Ground Freetext\8:freetext
+Free Text:UZSA Ground Freetext\9:freetext
+Free Text:UZSA Ground Freetext\A:freetext
+Free Text:UZSA Ground Freetext\B:freetext
+Free Text:UZSA Ground Freetext\C:freetext
+Free Text:UZSA Ground Freetext\D:freetext
+Free Text:UZSA Ground Freetext\E:freetext
+Free Text:UZSA Ground Freetext\F:freetext
+Free Text:UZSA Ground Freetext\MAIN:freetext
+Free Text:UZSA Ground Freetext\MAIN:freetext
+Geo:UZSA Groundlayout:
+Regions:UZSA Groundlayout:polygon
 SHOWC:1
 SHOWSB:0
 BELOW:0

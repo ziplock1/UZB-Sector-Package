@@ -3,21 +3,21 @@ DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
 SECTORFILE:
 SECTORTITLE:
-Free Text:UTST Ground Freetext\1:freetext
-Free Text:UTST Ground Freetext\2:freetext
-Free Text:UTST Ground Freetext\3:freetext
-Free Text:UTST Ground Freetext\4:freetext
-Free Text:UTST Ground Freetext\5:freetext
-Free Text:UTST Ground Freetext\6:freetext
-Free Text:UTST Ground Freetext\A:freetext
-Free Text:UTST Ground Freetext\B:freetext
-Free Text:UTST Ground Freetext\C:freetext
-Free Text:UTST Ground Freetext\D:freetext
-Free Text:UTST Ground Freetext\E:freetext
-Free Text:UTST Ground Freetext\M:freetext
-Free Text:UTST Ground Freetext\M:freetext
-Geo:UTST Groundlayout:
-Regions:UTST Groundlayout:polygon
+Free Text:UZST Ground Freetext\1:freetext
+Free Text:UZST Ground Freetext\2:freetext
+Free Text:UZST Ground Freetext\3:freetext
+Free Text:UZST Ground Freetext\4:freetext
+Free Text:UZST Ground Freetext\5:freetext
+Free Text:UZST Ground Freetext\6:freetext
+Free Text:UZST Ground Freetext\A:freetext
+Free Text:UZST Ground Freetext\B:freetext
+Free Text:UZST Ground Freetext\C:freetext
+Free Text:UZST Ground Freetext\D:freetext
+Free Text:UZST Ground Freetext\E:freetext
+Free Text:UZST Ground Freetext\M:freetext
+Free Text:UZST Ground Freetext\M:freetext
+Geo:UZST Groundlayout:
+Regions:UZST Groundlayout:polygon
 SHOWC:1
 SHOWSB:0
 BELOW:0

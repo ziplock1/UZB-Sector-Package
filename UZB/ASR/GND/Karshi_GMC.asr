@@ -3,17 +3,17 @@ DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
 SECTORFILE:
 SECTORTITLE:
-Free Text:UTSK Ground Freetext\1A:freetext
-Free Text:UTSK Ground Freetext\2:freetext
-Free Text:UTSK Ground Freetext\3:freetext
-Free Text:UTSK Ground Freetext\4:freetext
-Free Text:UTSK Ground Freetext\5:freetext
-Free Text:UTSK Ground Freetext\6:freetext
-Free Text:UTSK Ground Freetext\7A:freetext
-Free Text:UTSK Ground Freetext\8A:freetext
-Free Text:UTSK Ground Freetext\TWY 2:freetext
-Geo:UTSK Groundlayout:
-Regions:UTSK Groundlayout:polygon
+Free Text:UZSK Ground Freetext\1A:freetext
+Free Text:UZSK Ground Freetext\2:freetext
+Free Text:UZSK Ground Freetext\3:freetext
+Free Text:UZSK Ground Freetext\4:freetext
+Free Text:UZSK Ground Freetext\5:freetext
+Free Text:UZSK Ground Freetext\6:freetext
+Free Text:UZSK Ground Freetext\7A:freetext
+Free Text:UZSK Ground Freetext\8A:freetext
+Free Text:UZSK Ground Freetext\TWY 2:freetext
+Geo:UZSK Groundlayout:
+Regions:UZSK Groundlayout:polygon
 SHOWC:1
 SHOWSB:0
 BELOW:0

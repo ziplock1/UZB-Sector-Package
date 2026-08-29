@@ -3,18 +3,18 @@ DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
 SECTORFILE:
 SECTORTITLE:
-Free Text:UTNU Ground Freetext\1:freetext
-Free Text:UTNU Ground Freetext\2:freetext
-Free Text:UTNU Ground Freetext\2A:freetext
-Free Text:UTNU Ground Freetext\3:freetext
-Free Text:UTNU Ground Freetext\4:freetext
-Free Text:UTNU Ground Freetext\5:freetext
-Free Text:UTNU Ground Freetext\6:freetext
-Free Text:UTNU Ground Freetext\T1:freetext
-Free Text:UTNU Ground Freetext\T2:freetext
-Free Text:UTNU Ground Freetext\T3:freetext
-Geo:UTNU Groundlayout:
-Regions:UTNU Ground Polygons:polygon
+Free Text:UZNU Ground Freetext\1:freetext
+Free Text:UZNU Ground Freetext\2:freetext
+Free Text:UZNU Ground Freetext\2A:freetext
+Free Text:UZNU Ground Freetext\3:freetext
+Free Text:UZNU Ground Freetext\4:freetext
+Free Text:UZNU Ground Freetext\5:freetext
+Free Text:UZNU Ground Freetext\6:freetext
+Free Text:UZNU Ground Freetext\T1:freetext
+Free Text:UZNU Ground Freetext\T2:freetext
+Free Text:UZNU Ground Freetext\T3:freetext
+Geo:UZNU Groundlayout:
+Regions:UZNU Ground Polygons:polygon
 SHOWC:1
 SHOWSB:0
 BELOW:0

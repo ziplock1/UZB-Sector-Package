@@ -3,41 +3,41 @@ DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
 SECTORFILE:
 SECTORTITLE:
-Free Text:UTSS Ground Freetext\1:freetext
-Free Text:UTSS Ground Freetext\10:freetext
-Free Text:UTSS Ground Freetext\10L:freetext
-Free Text:UTSS Ground Freetext\10R:freetext
-Free Text:UTSS Ground Freetext\11:freetext
-Free Text:UTSS Ground Freetext\11L:freetext
-Free Text:UTSS Ground Freetext\11R:freetext
-Free Text:UTSS Ground Freetext\12:freetext
-Free Text:UTSS Ground Freetext\13:freetext
-Free Text:UTSS Ground Freetext\14:freetext
-Free Text:UTSS Ground Freetext\15:freetext
-Free Text:UTSS Ground Freetext\16:freetext
-Free Text:UTSS Ground Freetext\17:freetext
-Free Text:UTSS Ground Freetext\18:freetext
-Free Text:UTSS Ground Freetext\19:freetext
-Free Text:UTSS Ground Freetext\2:freetext
-Free Text:UTSS Ground Freetext\20:freetext
-Free Text:UTSS Ground Freetext\21:freetext
-Free Text:UTSS Ground Freetext\22:freetext
-Free Text:UTSS Ground Freetext\23:freetext
-Free Text:UTSS Ground Freetext\24:freetext
-Free Text:UTSS Ground Freetext\3:freetext
-Free Text:UTSS Ground Freetext\4:freetext
-Free Text:UTSS Ground Freetext\5A:freetext
-Free Text:UTSS Ground Freetext\7:freetext
-Free Text:UTSS Ground Freetext\8:freetext
-Free Text:UTSS Ground Freetext\9:freetext
-Free Text:UTSS Ground Freetext\A:freetext
-Free Text:UTSS Ground Freetext\B:freetext
-Free Text:UTSS Ground Freetext\C:freetext
-Free Text:UTSS Ground Freetext\C:freetext
-Free Text:UTSS Ground Freetext\D:freetext
-Free Text:UTSS Ground Freetext\De-icing area 2:freetext
-Geo:UTSS Groundlayout:
-Regions:UTSS Groundlayout:polygon
+Free Text:UZSS Ground Freetext\1:freetext
+Free Text:UZSS Ground Freetext\10:freetext
+Free Text:UZSS Ground Freetext\10L:freetext
+Free Text:UZSS Ground Freetext\10R:freetext
+Free Text:UZSS Ground Freetext\11:freetext
+Free Text:UZSS Ground Freetext\11L:freetext
+Free Text:UZSS Ground Freetext\11R:freetext
+Free Text:UZSS Ground Freetext\12:freetext
+Free Text:UZSS Ground Freetext\13:freetext
+Free Text:UZSS Ground Freetext\14:freetext
+Free Text:UZSS Ground Freetext\15:freetext
+Free Text:UZSS Ground Freetext\16:freetext
+Free Text:UZSS Ground Freetext\17:freetext
+Free Text:UZSS Ground Freetext\18:freetext
+Free Text:UZSS Ground Freetext\19:freetext
+Free Text:UZSS Ground Freetext\2:freetext
+Free Text:UZSS Ground Freetext\20:freetext
+Free Text:UZSS Ground Freetext\21:freetext
+Free Text:UZSS Ground Freetext\22:freetext
+Free Text:UZSS Ground Freetext\23:freetext
+Free Text:UZSS Ground Freetext\24:freetext
+Free Text:UZSS Ground Freetext\3:freetext
+Free Text:UZSS Ground Freetext\4:freetext
+Free Text:UZSS Ground Freetext\5A:freetext
+Free Text:UZSS Ground Freetext\7:freetext
+Free Text:UZSS Ground Freetext\8:freetext
+Free Text:UZSS Ground Freetext\9:freetext
+Free Text:UZSS Ground Freetext\A:freetext
+Free Text:UZSS Ground Freetext\B:freetext
+Free Text:UZSS Ground Freetext\C:freetext
+Free Text:UZSS Ground Freetext\C:freetext
+Free Text:UZSS Ground Freetext\D:freetext
+Free Text:UZSS Ground Freetext\De-icing area 2:freetext
+Geo:UZSS Groundlayout:
+Regions:UZSS Groundlayout:polygon
 SHOWC:1
 SHOWSB:0
 BELOW:0
