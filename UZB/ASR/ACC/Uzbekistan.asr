@@ -3,12 +3,12 @@ DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
 SECTORFILE:
 SECTORTITLE:
-ARTCC boundary:UZSD ACC (Sector 5UL):
-ARTCC boundary:UZSD ACC (Sector 6):
-ARTCC boundary:UZTR ACC(Sector 1UL):
-ARTCC boundary:UZTT ACC(Sector 2UL):
-ARTCC boundary:UZTT ACC(Sector 3UL):
-ARTCC boundary:UZTT ACC(Sector 4):
+ARTCC boundary:UZSD ACC 5UL:
+ARTCC boundary:UZSD ACC 6:
+ARTCC boundary:UZTR ACC 1UL:
+ARTCC boundary:UZTT ACC 2UL:
+ARTCC boundary:UZTT ACC 3UL:
+ARTCC boundary:UZTT ACC 4:
 ARTCC high boundary:UZFN TMA:
 ARTCC high boundary:UZNN APP:
 ARTCC high boundary:UZNU TCA:
