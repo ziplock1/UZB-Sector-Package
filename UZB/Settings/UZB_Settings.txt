@@ -43,9 +43,9 @@ m_DoNotUseRefusedColor:0
 SET_TransparentAcListBackground:0
 m_PutIncomingCoordinationToFirst:0
 m_AutoProxyMode:0
-m_TKr6EeffXNDX9kzYZyr5KsyfSB1v9GuZYxd:1
+m_TransparentAcListSelectedBackground:0
 m_TransparentDetailedTagBackground:1
-m_TKr6EeffXNDX9kzYZyr5KsyfSB1v9GuZYxBackground:1
+m_TransparentDetailedTagSelectedItemBackground:1
 m_AllowDirectBeyondCOPX:0
 m_ShowAtisLetterInMETAR:1
 m_ShowCLAMWarnings:0
@@ -171,12 +171,12 @@ m_ScreenMaximized:1
 m_ShowTitleSelectedAc:0
 m_PlanesListX:-1000
 m_PlanesListY:-1000
-m_MetarListX:1664
-m_MetarListY:69
+m_MetarListX:1647
+m_MetarListY:44
 m_VoiceListX:-1000
 m_VoiceListY:-1000
-m_ControllerListX:2427
-m_ControllerListY:157
+m_ControllerListX:2430
+m_ControllerListY:47
 m_ShowPlaneRangeRingsTracked:0
 m_ShowPlaneRangeRingsUntracked:0
 m_PlaneRangeRingsDistance1:1.5
@@ -242,7 +242,7 @@ Datablock:active item background:3223857:3.5:0:0:7
 Datablock:arrival background:1395241:3.5:0:0:7
 Datablock:departure background:4264977:3.5:0:0:7
 Datablock:AC list background:12040119:3.5:0:0:7
-Datablock:AC list selected background:16711422:3.5:0:0:7
+Datablock:AC list selected background:12040119:3.5:0:0:7
 Datablock:dimmed at conflict detection:5263440:3.5:0:0:7
 Datablock:SCTA warning rectangle:3289855:3.5:0:0:7
 Datablock:SCTA CFL used warning rectangle:65535:3.5:0:0:7
