@@ -3,22 +3,22 @@ DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
 SECTORFILE:
 SECTORTITLE:
-Free Text:UTFN Ground Freetext\1:freetext
-Free Text:UTFN Ground Freetext\2:freetext
-Free Text:UTFN Ground Freetext\2A:freetext
-Free Text:UTFN Ground Freetext\3:freetext
-Free Text:UTFN Ground Freetext\4:freetext
-Free Text:UTFN Ground Freetext\5:freetext
-Free Text:UTFN Ground Freetext\6:freetext
-Free Text:UTFN Ground Freetext\7:freetext
-Free Text:UTFN Ground Freetext\A:freetext
-Free Text:UTFN Ground Freetext\B:freetext
-Free Text:UTFN Ground Freetext\C:freetext
-Free Text:UTFN Ground Freetext\D:freetext
-Free Text:UTFN Ground Freetext\E:freetext
-Free Text:UTFN Ground Freetext\M:freetext
-Geo:UTFN Groundlayout:
-Regions:UTFN Ground Polygons:polygon
+Free Text:UZFN Ground Freetext\1:freetext
+Free Text:UZFN Ground Freetext\2:freetext
+Free Text:UZFN Ground Freetext\2A:freetext
+Free Text:UZFN Ground Freetext\3:freetext
+Free Text:UZFN Ground Freetext\4:freetext
+Free Text:UZFN Ground Freetext\5:freetext
+Free Text:UZFN Ground Freetext\6:freetext
+Free Text:UZFN Ground Freetext\7:freetext
+Free Text:UZFN Ground Freetext\A:freetext
+Free Text:UZFN Ground Freetext\B:freetext
+Free Text:UZFN Ground Freetext\C:freetext
+Free Text:UZFN Ground Freetext\D:freetext
+Free Text:UZFN Ground Freetext\E:freetext
+Free Text:UZFN Ground Freetext\M:freetext
+Geo:UZFN Groundlayout:
+Regions:UZFN Ground Polygons:polygon
 SHOWC:1
 SHOWSB:0
 BELOW:0

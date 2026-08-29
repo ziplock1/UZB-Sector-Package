@@ -3,17 +3,17 @@ DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
 SECTORFILE:
 SECTORTITLE:
-Free Text:UTNN Ground Freetext\1:freetext
-Free Text:UTNN Ground Freetext\2:freetext
-Free Text:UTNN Ground Freetext\3:freetext
-Free Text:UTNN Ground Freetext\4:freetext
-Free Text:UTNN Ground Freetext\5:freetext
-Free Text:UTNN Ground Freetext\6:freetext
-Free Text:UTNN Ground Freetext\7:freetext
-Free Text:UTNN Ground Freetext\B:freetext
-Free Text:UTNN Ground Freetext\E:freetext
-Geo:UTNN Groundlayout:
-Regions:UTNN Ground Polygons:polygon
+Free Text:UZNN Ground Freetext\1:freetext
+Free Text:UZNN Ground Freetext\2:freetext
+Free Text:UZNN Ground Freetext\3:freetext
+Free Text:UZNN Ground Freetext\4:freetext
+Free Text:UZNN Ground Freetext\5:freetext
+Free Text:UZNN Ground Freetext\6:freetext
+Free Text:UZNN Ground Freetext\7:freetext
+Free Text:UZNN Ground Freetext\B:freetext
+Free Text:UZNN Ground Freetext\E:freetext
+Geo:UZNN Groundlayout:
+Regions:UZNN Ground Polygons:polygon
 SHOWC:1
 SHOWSB:0
 BELOW:0

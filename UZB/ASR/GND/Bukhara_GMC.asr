@@ -3,20 +3,20 @@ DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
 SECTORFILE:
 SECTORTITLE:
-Free Text:UTSB Ground Freetext\1:freetext
-Free Text:UTSB Ground Freetext\2:freetext
-Free Text:UTSB Ground Freetext\3:freetext
-Free Text:UTSB Ground Freetext\4:freetext
-Free Text:UTSB Ground Freetext\5:freetext
-Free Text:UTSB Ground Freetext\6:freetext
-Free Text:UTSB Ground Freetext\7:freetext
-Free Text:UTSB Ground Freetext\T-1:freetext
-Free Text:UTSB Ground Freetext\T-2:freetext
-Free Text:UTSB Ground Freetext\T-3:freetext
-Free Text:UTSB Ground Freetext\T-4:freetext
-Free Text:UTSB Ground Freetext\T-5:freetext
-Geo:UTSB Groundlayout:
-Regions:UTSB Groundlayout:polygon
+Free Text:UZSB Ground Freetext\1:freetext
+Free Text:UZSB Ground Freetext\2:freetext
+Free Text:UZSB Ground Freetext\3:freetext
+Free Text:UZSB Ground Freetext\4:freetext
+Free Text:UZSB Ground Freetext\5:freetext
+Free Text:UZSB Ground Freetext\6:freetext
+Free Text:UZSB Ground Freetext\7:freetext
+Free Text:UZSB Ground Freetext\T-1:freetext
+Free Text:UZSB Ground Freetext\T-2:freetext
+Free Text:UZSB Ground Freetext\T-3:freetext
+Free Text:UZSB Ground Freetext\T-4:freetext
+Free Text:UZSB Ground Freetext\T-5:freetext
+Geo:UZSB Groundlayout:
+Regions:UZSB Groundlayout:polygon
 SHOWC:1
 SHOWSB:0
 BELOW:0

@@ -3,11 +3,11 @@ DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
 SECTORFILE:
 SECTORTITLE:
-Free Text:UTFK Ground Freetext\1:freetext
-Free Text:UTFK Ground Freetext\2:freetext
-Free Text:UTFK Ground Freetext\A:freetext
-Geo:UTFK Groundlayout:
-Regions:UTFK Ground Polygons:polygon
+Free Text:UZFK Ground Freetext\1:freetext
+Free Text:UZFK Ground Freetext\2:freetext
+Free Text:UZFK Ground Freetext\A:freetext
+Geo:UZFK Groundlayout:
+Regions:UZFK Ground Polygons:polygon
 SHOWC:1
 SHOWSB:0
 BELOW:0
